@@ -1,4 +1,4 @@
-# Projects_Python
+# Projetos Python
 
 Este repositório contém projetos em Python de nível introdutório a intermediário, com foco na aprendizagem da linguagem voltada para **Data Science** e **Analytics**. Os projetos foram desenvolvidos para proporcionar uma compreensão prática dos conceitos e ferramentas essenciais para análise de dados e ciência de dados.
 
